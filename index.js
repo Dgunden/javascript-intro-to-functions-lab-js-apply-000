@@ -27,6 +27,7 @@ function sayHiToGrandma(string) {
     return "I love you, too.";
   }
 }
+sayHiToGrandma();
 
 function sayHiToGrandma(string) {
   var uppercase = "HELLO";
